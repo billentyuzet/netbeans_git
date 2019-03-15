@@ -10,6 +10,8 @@ public class Kozos_projekt
          System.out.println("alma");
          System.out.println("szia linux!");
          
+         System.out.println("jo reggelt!");
+         
          
          
     }
