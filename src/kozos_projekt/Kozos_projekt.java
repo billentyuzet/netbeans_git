@@ -7,6 +7,10 @@ public class Kozos_projekt
     {
          System.out.println("Hello word"); 
          System.out.println("Barack");
+         System.out.println("alma");
+         
+         
+         
     }
     
 }
