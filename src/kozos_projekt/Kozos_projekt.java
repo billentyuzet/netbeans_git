@@ -7,7 +7,7 @@ public class Kozos_projekt
     {
          System.out.println("Hello word"); 
          System.out.println("Barack");
-         System.out.println(ConsoleColours.RED + "alma");
+         System.out.println(ConsoleColours.RED + "alma3");
          System.out.println("szia linux!");
          System.out.println("szep estet!");
          
